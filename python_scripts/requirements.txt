@@ -1,0 +1,8 @@
+Flask
+flask-cors
+pandas
+matplotlib
+seaborn
+supabase
+python-dotenv
+gunicorn
